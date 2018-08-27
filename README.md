@@ -6,3 +6,4 @@
 | Jaewoo Yang   | Instructor |     |
 | Onnoo         | Student    |     |
 | Hanseo An     | Student    |     |
+| jiho5993      | Student    |     |
